@@ -81,6 +81,6 @@ RSpec.configure do |config|
 =end
 end
 
-def hint(number)
-  Proc.new{YAML.load_file("./.hints")[number]}
+def hint(number, value)
+  eval(YAML.load_file("./.hints")[number])
 end
