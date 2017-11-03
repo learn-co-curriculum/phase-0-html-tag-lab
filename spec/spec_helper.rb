@@ -82,11 +82,11 @@ RSpec.configure do |config|
 end
 
 def hint(number, value)
-  eval(YAML.load_file("./.hints")[number])
+  eval(YAML.load_file('./.hints')[number])
 end
 
 def html_file_contents
-  File.read("./index.html")
+  File.read('./index.html')
 end
 
 def parsed_html
