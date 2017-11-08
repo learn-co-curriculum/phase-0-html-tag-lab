@@ -21,7 +21,7 @@ Once you have the HTML document open in your browser, you can make changes to it
 
 *Don't watch this video if you want to try to solve it first yourself, but if you're stuck, here's me walking you through how this works.*
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Jc0HIoTLxe4 ?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Jc0HIoTLxe4">Solving the First HTML Lab</a></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Jc0HIoTLxe4?rel=0&modestbranding=1" frameborder="0" allowfullscreen></iframe><p><a href="https://www.youtube.com/watch?v=Jc0HIoTLxe4">Solving the First HTML Lab</a></p>
 
 ## Resources
 
