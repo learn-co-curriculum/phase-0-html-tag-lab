@@ -28,3 +28,5 @@ Once you have the HTML document open in your browser, you can make changes to it
 ## Resources
 
 * [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/first-html-tag-lab'>First HTML Tag</a> on Learn.co and start learning to code for free.</p>
