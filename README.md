@@ -9,6 +9,8 @@
 
 Open `index.html` in your text editor. Add an `h1` tag with the inner text of `Hello, World!` anywhere in the file. You can run the tests with this lab via `learn`. Make sure you save the file before running the test suite. Failing tests will provide helpful error messages that you can use to debug your code — read them closely for hints!
 
+_This lab will provide hints with every failure_
+
 ## Viewing your work in the browser
 
 While working through these assignments, your general workflow should center on writing code in the text editor and periodically running the test suite in the terminal to check your work.
