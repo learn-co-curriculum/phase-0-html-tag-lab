@@ -1,19 +1,25 @@
-# Your First HTML Tag 
+# Your First HTML Tag
+
+## Problem Statement
 
 We know what HTML tags look like. But how do they work in practice? Let's put one together and find out.
 
-## Students will be able to ...
+## Objectives
 
 1. Code an `h1` tag in `index.html`
 2. Set the inner text of the `h1` to `Hello, World!`
 
-## The `h1` tag
+## Code an `h1` Tag
 
-Open `index.html` in your text editor. Add an `h1` tag with the inner text of
-`Hello, World!` anywhere in the file. You can run the tests with this lab via
-`learn`. Make sure you save the file before running the test suite. Failing
-tests will provide helpful error messages that you can use to debug your code —
-read them closely for hints!
+Open `index.html` in your text editor. Add the `h1` opening and closing tags.
+
+## Set the Inner Text
+
+Inside of the opening and closing `h` tags, insert the text: `Hello, World!`.
+
+You can run the tests with this lab via `learn`. Make sure you save the file
+before running the test suite. Failing tests will provide helpful error messages
+that you can use to debug your code — read them closely for hints!
 
 ## Viewing Your Work in the Browser
 
