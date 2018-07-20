@@ -1,4 +1,4 @@
-# Your First HTML Tag
+# Your First HTML Tag Lab
 
 ## Problem Statement
 
