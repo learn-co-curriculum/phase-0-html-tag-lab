@@ -4,6 +4,8 @@
 
 We know what HTML tags look like. But how do they work in practice? Let's put one together and find out.
 
+hello
+
 ## Objectives
 
 1. Code an `h1` tag in `index.html`
