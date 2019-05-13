@@ -1,13 +1,15 @@
 # Your First HTML Tag Lab
 
-## Problem Statement
+## Learning Goals
 
-We know what HTML tags look like. But how do they work in practice? Let's put one together and find out.
+- Code an `h1` tag
+- Set the inner text of the `h1` to `Hello, World!`
 
-## Objectives
+## Introduction
 
-1. Code an `h1` tag in `index.html`
-2. Set the inner text of the `h1` to `Hello, World!`
+So far, we've seen how to markup content with HTML, how to structure an HTML
+document and what HTML tags look like. Now let's focus on writing a single HTML
+tag from scratch and examining each of its parts.
 
 ## Code an `h1` Tag
 
@@ -21,7 +23,7 @@ You can run the tests with this lab via `learn`. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
 that you can use to debug your code — read them closely for hints!
 
-## Viewing Your Work in the Browser
+### Viewing Your Work in the Browser
 
 While working through these assignments, your general workflow should center on
 writing code in the text editor and periodically running the test suite in the
@@ -42,6 +44,6 @@ the changes instantly.
 
 ## Conclusion
 
-Congratulations! You wrote your first HTML tag. Now you can use your knowledge of this basic building block to learn more HTML tags and see how they work with each other to create an entire HTML document structure.
-
-<p class='util--hide'>View <a href='https://learn.co/lessons/first-html-tag-lab'>First HTML Tag</a> on Learn.co and start learning to code for free.</p>
+Congratulations! You wrote your first HTML tag. Now you can use your knowledge
+of this basic building block to learn more HTML tags and see how they work with
+each other to create an entire HTML document structure.
