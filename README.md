@@ -11,6 +11,12 @@ So far, we've seen how to markup content with HTML, how to structure an HTML
 document and what HTML tags look like. Now let's focus on writing a single HTML
 tag from scratch and examining each of its parts.
 
+## Getting Started
+
+Fork and clone this lesson into your local environment. Navigate into its directory
+in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
+run `bundle` to install the lab's dependencies.
+
 ## Code an `h1` Tag
 
 Open `index.html` in your text editor. Add the `h1` opening and closing tags.
@@ -19,7 +25,7 @@ Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 Inside of the opening and closing `h` tags, insert the text: `Hello, World!`.
 
-You can run the tests with this lab via `learn`. Make sure you save the file
+You can run the tests with this lab via the `rspec` command. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
 that you can use to debug your code — read them closely for hints!
 
