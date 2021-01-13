@@ -15,7 +15,8 @@ tag from scratch and examining each of its parts.
 
 Fork and clone this lesson into your local environment. Navigate into its directory
 in the terminal, then run `code .` to open the files in Visual Studio Code. Finally,
-run `bundle` to install the lab's dependencies.
+run `bundle` to install the lab's dependencies. Run `rspec` as you go to see your test
+progress.
 
 ## Code an `h1` Tag
 
@@ -43,15 +44,32 @@ Once you have the HTML document open in your browser, you can make changes to
 it in the text editor, save the file, refresh the page in the browser, and see
 the changes instantly.
 
-## Resources
+## Saving Your Work Remotely
 
-* [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
-* [Solving the First HTML Lab](https://www.youtube.com/watch?v=Jc0HIoTLxe4) (If you're stuck, here's a video walk-through of the lab to help you out.)
+Currently, the work you've done on this assignmnent is only on your local
+machine. To preserve work on your GitHub fork, you will need to stage the
+changes you've made, commit them, and push the commit up to GitHub. Use
+the following commands to do this:
+
+```sh
+git add .
+git commit -m "Completed assignment"
+git push
+```
+
+If you visit your fork on GitHub, you should now see that _you've_ made the most
+recent commit, and your solution will be present in the files.
 
 ## Conclusion
 
 Congratulations! You wrote your first HTML tag. Now you can use your knowledge
 of this basic building block to learn more HTML tags and see how they work with
 each other to create an entire HTML document structure.
+
+## Resources
+
+* [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+* [Solving the First HTML Lab](https://www.youtube.com/watch?v=Jc0HIoTLxe4) (If you're stuck, here's a video walk-through of the lab to help you out.)
+
 
 
