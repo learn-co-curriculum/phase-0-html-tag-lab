@@ -46,7 +46,7 @@ the changes instantly.
 
 ## Saving Your Work Remotely
 
-Currently, the work you've done on this assignmnent is only on your local
+Currently, the work you've done on this assignment is only on your local
 machine. To preserve work on your GitHub fork, you will need to stage the
 changes you've made, commit them, and push the commit up to GitHub. Use
 the following commands to do this:
