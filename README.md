@@ -51,10 +51,10 @@ machine. To preserve work on your GitHub fork, you will need to stage the
 changes you've made, commit them, and push the commit up to GitHub. Use
 the following commands to do this:
 
-```sh
-git add .
-git commit -m "Completed assignment"
-git push
+```console
+$ git add .
+$ git commit -m "Completed assignment"
+$ git push
 ```
 
 If you visit your fork on GitHub, you should now see that _you've_ made the most
@@ -68,8 +68,5 @@ each other to create an entire HTML document structure.
 
 ## Resources
 
-* [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
-* [Solving the First HTML Lab](https://www.youtube.com/watch?v=Jc0HIoTLxe4) (If you're stuck, here's a video walk-through of the lab to help you out.)
-
-
-
+- [h1-h6 Tags](https://www.w3schools.com/tags/tag_hn.asp)
+- [Solving the First HTML Lab](https://www.youtube.com/watch?v=Jc0HIoTLxe4) (If you're stuck, here's a video walk-through of the lab to help you out.)
