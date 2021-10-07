@@ -24,7 +24,7 @@ Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 ## Set the Inner Text
 
-Inside of the opening and closing `h` tags, insert the text: `Hello, World!`.
+Inside of the opening and closing `h1` tags, insert the text: `Hello, World!`.
 
 You can run the tests with this lab via the `rspec` command. Make sure you save the file
 before running the test suite. Failing tests will provide helpful error messages
