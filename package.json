@@ -1,0 +1,26 @@
+{
+  "name": "phase-0-html-tag-lab",
+  "version": "1.0.0",
+  "description": "Your First HTML Tag Lab",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/learn-co-curriculum/phase-0-html-tag-lab.git"
+  },
+  "author": "flatironschool",
+  "license": "Included in Repo",
+  "bugs": {
+    "url": "https://github.com/learn-co-curriculum/phase-0-html-tag-lab/issues"
+  },
+  "homepage": "https://github.com/learn-co-curriculum/phase-0-html-tag-lab#readme",
+  "devDependencies": {
+    "chai": "^4.3.4",
+    "global-jsdom": "^8.3.0",
+    "jsdom": "^18.1.0",
+    "mocha": "^9.1.3",
+    "mocha-multi": "^1.1.5"
+  }
+}
