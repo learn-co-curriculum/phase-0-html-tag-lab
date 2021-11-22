@@ -1,21 +1,21 @@
 {
-  "name": "phase-0-html-tag-lab",
+  "name": "phase-0-html-link-tag-with-href",
   "version": "1.0.0",
-  "description": "Your First HTML Tag Lab",
+  "description": "Create a Link Using the href Attribute",
   "main": "index.js",
   "scripts": {
     "test": "mocha -R mocha-multi --timeout 5000 --reporter-options spec=-,json=.results.json"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/learn-co-curriculum/phase-0-html-tag-lab.git"
+    "url": "git+https://github.com/learn-co-curriculum/phase-0-html-link-tag-with-href.git"
   },
   "author": "flatironschool",
   "license": "Included in Repo",
   "bugs": {
-    "url": "https://github.com/learn-co-curriculum/phase-0-html-tag-lab/issues"
+    "url": "https://github.com/learn-co-curriculum/phase-0-html-link-tag-with-href/issues"
   },
-  "homepage": "https://github.com/learn-co-curriculum/phase-0-html-tag-lab#readme",
+  "homepage": "https://github.com/learn-co-curriculum/phase-0-html-link-tag-with-href#readme",
   "devDependencies": {
     "chai": "^4.3.4",
     "chai-dom": "^1.10.0",

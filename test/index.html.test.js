@@ -16,7 +16,7 @@ describe("index.html", () => {
       const hint =
         'Does your H1 have exactly "Hello, World!" inside the opening and closing tag?';
 
-      expect(h1, hint).to.have.text("Hello, World!");
+      expect(h1, hint).to.contain.text("Hello, World!");
     });
   });
 });
