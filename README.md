@@ -39,9 +39,28 @@ Another great way to track your progress is to open up the HTML document in your
 browser and watch how each change you make in the text editor affects the visual
 layout in the browser.
 
+You can open `index.html` a few ways, depending on the environment you are in:
+
+For Mac users:
+
+- Open from the Terminal by running `open index.html` in the root directory of
+  this lab
+- Use Finder to navigate to this lab's local folder and click the `index.html`
+  file
+
+For WSL users:
+
+- Open from Ubuntu by running `explorer.exe index.html` in the root directory of
+  this lab
+- Open a new Explorer window. There is a bar that says "Quick Access" along the
+  top of the window (similar to a URL bar in a browser). Click this and type
+  `\\wsl$` to access files and folders on Ubuntu. Navigate to
+  `/home/<your-user-name>/` to get to your home directory, then locate this
+  lab's local folder and click the `index.html` file.
+
 Once you have the HTML document open in your browser, you can make changes to it
-in the text editor, save the file, refresh the page in the browser, and see the
-changes instantly.
+in a text editor, save the file, refresh the page in the browser, and see the
+changes.
 
 ## Conclusion
 
