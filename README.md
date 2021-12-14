@@ -25,8 +25,7 @@ Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 Inside of the opening and closing `h1` tags, insert the text: `Hello, World!`.
 
-You can run the tests with this lab via the `learn test` command. Make sure you
-save the file before running the test suite. Failing tests will provide helpful
+Check your progress by running `learn test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
