@@ -13,9 +13,9 @@ tag from scratch and examining each of its parts.
 
 ## Getting Started
 
-Fork and clone this lesson into your local environment. Navigate into its
+**Fork and clone** this lesson into your local environment. Navigate into its
 directory in the terminal, then run `code .` to open the files in Visual Studio
-Code. Run `learn test` as you go to see your test progress.
+Code. Run `npm test` as you go to see your test progress.
 
 ## Code an `h1` Tag
 
@@ -25,7 +25,7 @@ Open `index.html` in your text editor. Add the `h1` opening and closing tags.
 
 Inside of the opening and closing `h1` tags, insert the text: `Hello, World!`.
 
-Check your progress by running `learn test`. Failing tests will provide helpful
+Check your progress by running `npm test`. Failing tests will provide helpful
 error messages that you can use to debug your code — read them closely for
 hints!
 
