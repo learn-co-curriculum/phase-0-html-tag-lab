@@ -66,7 +66,8 @@ changes.
 
 Congratulations! You wrote your first HTML tag. Now you can use your knowledge
 of this basic building block to learn more HTML tags and see how they work with
-each other to create an entire HTML document structure.
+each other to create an entire HTML document structure. Remember to submit your
+work in CodeGrade before moving on.
 
 ## Resources
 
